@@ -1,3 +1,0 @@
-#### Ejercicio 1:   Consultar en el catálogo de alguna tienda de informática el precio de un ordenador tipo servidor y calcular su coste de amortización a cuatro y siete años.
-
-EN la tienda de informática [Pccomponentes](https://www.pccomponentes.com/), he seleccionado este [ordenador](https://www.pccomponentes.com/hp-proliant-microserver-gen10-amd-opteron-x3216-8gb) que tiene un precio de 392.41€. Desglosando el precio, tenemos que el IVA son 82.19 euros y el activo entonces son 309.22€. Para calcular su amortización en cuatro años solo debemos dividir el gastoa activo entre el número de años: 309.22/4 = 77.3 €/año. Ahora, para calcular su amortización a 7 años realizamos el mismo procedimiento solo que dividiendo entre 7: 309.22/7=44.17€/año.
