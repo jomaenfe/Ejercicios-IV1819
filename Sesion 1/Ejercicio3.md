@@ -4,4 +4,4 @@ El modelo de procesador que tiene instalado mi ordenador es Intel(R) Core(TM) i7
 
 ``egrep '^flags.*(vmx|svm)' /proc/cpuinfo``
 
-[Captura de salida](https://raw.githubusercontent.com/jomaenfe/Ejercicios-IV1819/master/Capturas%20de%20pantalla/Ejercicio3.png)
+![Captura de salida](https://raw.githubusercontent.com/jomaenfe/Ejercicios-IV1819/master/Capturas%20de%20pantalla/Ejercicio3.png)
