@@ -3,4 +3,4 @@
 
 Como yo estoy utilizando python, nuestro archivo donde se guardan las dependecias se llama "requirements.txt". Este archivo, en conjunto con virtualevn y con pip, recoge e instala de forma automática las dependecias necesarias para nuestro proyecto. Este archivo es más simple que el que se muestra en el ejemplo del guión, pero la finalidad es la misma. La estructura de dicho archivo se puede apreciar en la siguiente captura.
 
-![CapturaRequirements]()
+![CapturaRequirements](https://github.com/jomaenfe/Ejercicios-IV1819/blob/master/Sesion%204/Capturas%20de%20pantalla%20sesion%204/Ejercicio7.png?raw=true)
